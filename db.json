@@ -2,23 +2,23 @@
   "feedback": [
     {
       "rating": 5,
-      "text": "You actually don't know you fucking idiot",
-      "id": 5
-    },
-    {
-      "rating": 5,
-      "text": "You actually don't know you fucking idiot",
-      "id": 6
+      "text": "Feedback item 1",
+      "id": 1
     },
     {
       "rating": 10,
-      "text": "You actually don't know you fucking idiot",
-      "id": 7
+      "text": "Feedback item 2",
+      "id": 2
     },
     {
-      "text": "You actually don't know you fucking idiot!!!!",
+      "rating": 8,
+      "text": "Feedback item 3",
+      "id": 3
+    },
+    {
+      "text": "Feedback item 4",
       "rating": 6,
-      "id": 8
+      "id": 4
     }
   ]
 }
